@@ -1,0 +1,15 @@
+C:\Users\RustamK\Desktop\Практика по GitHab и С##\Lection 4 Metod & For\Lection1\Attest\DZ3\bin\Debug\net6.0\DZ3.exe
+C:\Users\RustamK\Desktop\Практика по GitHab и С##\Lection 4 Metod & For\Lection1\Attest\DZ3\bin\Debug\net6.0\DZ3.deps.json
+C:\Users\RustamK\Desktop\Практика по GitHab и С##\Lection 4 Metod & For\Lection1\Attest\DZ3\bin\Debug\net6.0\DZ3.runtimeconfig.json
+C:\Users\RustamK\Desktop\Практика по GitHab и С##\Lection 4 Metod & For\Lection1\Attest\DZ3\bin\Debug\net6.0\DZ3.dll
+C:\Users\RustamK\Desktop\Практика по GitHab и С##\Lection 4 Metod & For\Lection1\Attest\DZ3\bin\Debug\net6.0\DZ3.pdb
+C:\Users\RustamK\Desktop\Практика по GitHab и С##\Lection 4 Metod & For\Lection1\Attest\DZ3\obj\Debug\net6.0\DZ3.csproj.AssemblyReference.cache
+C:\Users\RustamK\Desktop\Практика по GitHab и С##\Lection 4 Metod & For\Lection1\Attest\DZ3\obj\Debug\net6.0\DZ3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RustamK\Desktop\Практика по GitHab и С##\Lection 4 Metod & For\Lection1\Attest\DZ3\obj\Debug\net6.0\DZ3.AssemblyInfoInputs.cache
+C:\Users\RustamK\Desktop\Практика по GitHab и С##\Lection 4 Metod & For\Lection1\Attest\DZ3\obj\Debug\net6.0\DZ3.AssemblyInfo.cs
+C:\Users\RustamK\Desktop\Практика по GitHab и С##\Lection 4 Metod & For\Lection1\Attest\DZ3\obj\Debug\net6.0\DZ3.csproj.CoreCompileInputs.cache
+C:\Users\RustamK\Desktop\Практика по GitHab и С##\Lection 4 Metod & For\Lection1\Attest\DZ3\obj\Debug\net6.0\DZ3.dll
+C:\Users\RustamK\Desktop\Практика по GitHab и С##\Lection 4 Metod & For\Lection1\Attest\DZ3\obj\Debug\net6.0\refint\DZ3.dll
+C:\Users\RustamK\Desktop\Практика по GitHab и С##\Lection 4 Metod & For\Lection1\Attest\DZ3\obj\Debug\net6.0\DZ3.pdb
+C:\Users\RustamK\Desktop\Практика по GitHab и С##\Lection 4 Metod & For\Lection1\Attest\DZ3\obj\Debug\net6.0\DZ3.genruntimeconfig.cache
+C:\Users\RustamK\Desktop\Практика по GitHab и С##\Lection 4 Metod & For\Lection1\Attest\DZ3\obj\Debug\net6.0\ref\DZ3.dll
